@@ -1,3 +1,3 @@
-This package contains an all-in-one code to test the ideas of a 6-parameter time domain fit for low-momentum
-helices.  It implments a toy MC based on the idea of a low-mass wire chamber, modeled on the Mu2e tracker.
-
+This package contains an all-in-one code to define and test a 6-parameter time domain kinematic
+track fit for low-momentum particles.  It also implments a toy MC based on the idea of a low-mass
+ire chamber, modeled on the Mu2e tracker.  Created Dec. 2018 by David Brown, LBNL
